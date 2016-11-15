@@ -1,5 +1,5 @@
 # IS2545 Deliverable 5 - Security Testing
-Rachel Chang (juc62) | Zihan Xie (zix8)
+Team members: Rachel Chang (juc62), Zihan Xie (zix8)
 
 ### Tesing site: http://testphp.vulnweb.com/ (Acunetix WVS)
 
