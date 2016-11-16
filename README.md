@@ -11,6 +11,11 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
   - Business value at risk:
   
   - Steps taken:
+    1. Go to sign up page.
+    2. Enter html code "\</li>\<script>alert(1);\</script>\<li>" into username column.
+    3. Fill other columns.
+    4. Click "signup".
+    5. Signup will be successful and we can see the html code will be executed.
   
   - Screenshot:
   ![image of xss attack](/img/XSS1.JPG)
