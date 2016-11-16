@@ -13,6 +13,8 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
   - Steps taken:
   
   - Screenshot:
+  ![image of xss attack](/img/XSS1.JPG)
+  ![image of xss attack result](/img/XSS2.JPG)
   
   - How to fix: 
 
@@ -26,6 +28,8 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
   - Steps taken:
   
   - Screenshot:
+  ![image of MySQL attack](/img/MySQL.JPG)
+  ![image of MySQL attack result](/img/MySQL2.JPG)
   
   - How to fix: 
 
@@ -39,5 +43,7 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
   - Steps taken:
   
   - Screenshot:
+  ![image of SQL attack](/img/SQL.JPG)
+  ![image of SQL attack result](/img/SQL2.JPG)
   
   - How to fix: 
