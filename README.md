@@ -21,14 +21,14 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
   5. Screenshot:
   
     1. Steps of attack:
-    ![image of xss attack](/img/XSS1.JPG)
+![image of xss attack](/img/XSS1.JPG)
     
     2. Result of attack:
-    ![image of xss attack result](/img/XSS2.JPG)
+![image of xss attack result](/img/XSS2.JPG)
   
   6. How to fix:
-  
-    1. Contextual output encoding/escaping could be used as the primary defense mechanism to stop XSS attacks.
+    
+    1. Contextual output encoding/escaping could be used as the primary defense mechanism to stop XSS attacks.
     2. Safely validating untrusted HTML input.
 
 #### 2. SQL injection - MySQL
@@ -49,14 +49,14 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
   5. Screenshot:
   
     1. Steps of attack:
-    ![image of MySQL attack](/img/MySQL.JPG)
+![image of MySQL attack](/img/MySQL.JPG)
     
     2. Result of attack:
-    ![image of MySQL attack result](/img/MySQL2.JPG)
+![image of MySQL attack result](/img/MySQL2.JPG)
   
   6. How to fix: 
   
-    1. Providing a string when the SQL query is expecting an integer, or purposely inserting a syntax error in an SQL statement cause the database server to throw an error.
+    1. Providing a string when the SQL query is expecting an integer, or purposely inserting a syntax error in an SQL statement cause the database server to throw an error.
     2. To leverage the UNION SQL operator, allowing an attacker to combine the results of two or more SELECT statements into a single result. This forces the application to return data within the HTTP response – this technique is referred to as union-based SQL Injection.
 
 #### 3. SQL injection
