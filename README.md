@@ -83,6 +83,7 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
 ![image of SQL attack result](/img/SQL2.JPG)
   
   6. How to fix: 
-  
-    1. Providing a string when the SQL query is expecting an integer, or purposely inserting a syntax error in an SQL statement cause the database server to throw an error.
+    
+    1. Providing a string when the SQL query is expecting an integer, or purposely inserting a syntax error in an SQL statement cause the database server to throw an error.
     2. To leverage the UNION SQL operator, allowing an attacker to combine the results of two or more SELECT statements into a single result. This forces the application to return data within the HTTP response – this technique is referred to as union-based SQL Injection.
+    
