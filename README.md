@@ -68,23 +68,19 @@ Team members: Rachel Chang (juc62), Zihan Xie (zix8)
   
   4. Steps taken:
   
-    1. Go to login page.
-    
-    2. Enter "test" as username.
-    
-    3. Enter SQL query "ZAP' OR '1'='1' -- " as password.
-    
-    4. Click "login" button.
-    
+    1. Go to login page.    
+    2. Enter "test" as username.    
+    3. Enter SQL query "ZAP' OR '1'='1' -- " as password.    
+    4. Click "login" button.    
     5. Login will be successful and will show user's profile.
   
   5. Screenshot:
   
     1. Steps of attack:
-    ![image of SQL attack](/img/SQL.JPG)
+![image of SQL attack](/img/SQL.JPG)
     
     2. Result of attack:
-    ![image of SQL attack result](/img/SQL2.JPG)
+![image of SQL attack result](/img/SQL2.JPG)
   
   6. How to fix: 
   
